@@ -8,12 +8,15 @@
 
 ### 🛍️ 关于我
 
-- 🌱 小白一枚，正在探索 **电商 Agent** 与 **电商数据分析**
-- 🔍 喜欢从杂乱的电商数据里挖规律，把一堆 CSV 变成能看懂的结论
-- 🤖 好奇 AI / Agent 能在电商场景里做到什么程度，边学边做边记录
-- 📚 仓库里放的大多是学习路上的实战项目和踩坑记录，欢迎一起交流
+🎓 小白一枚，关注 AI Agent、数据分析与数字商业 的交叉应用。
 
-📁 **[ecommerce-data-analysis](https://github.com/Chulo121/ecommerce-data-analysis)**
+🔍 对电商行业有浓厚兴趣，注重从数据中提炼洞察，并将分析结果转化为实际业务价值。
+
+💻 持续探索 AI Agent、工作流自动化与工具集成，关注大语言模型在信息获取、数据处理及业务流程优化中的应用。
+
+📚 这里主要记录技术实践和一些之前练手的项目，欢迎交流。
+
+📁过去学习项目： **[ecommerce-data-analysis](https://github.com/Chulo121/ecommerce-data-analysis)**
 
 <br/>
 
