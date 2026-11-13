@@ -9,6 +9,9 @@
 ### 🛍️ 关于我
 
 - 🌱 小白一枚，正在探索 **电商 Agent** 与 **电商数据分析**
+- 🔍 喜欢从杂乱的电商数据里挖规律，把一堆 CSV 变成能看懂的结论
+- 🤖 好奇 AI / Agent 能在电商场景里做到什么程度，边学边做边记录
+- 📚 仓库里放的大多是学习路上的实战项目和踩坑记录，欢迎一起交流
 
 📁 **[ecommerce-data-analysis](https://github.com/Chulo121/ecommerce-data-analysis)**
 
@@ -28,14 +31,14 @@
 ### 🧰 技术栈
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-0EA5E9?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-0EA5E9?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0EA5E9?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0EA5E9?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pyecharts-0EA5E9?style=for-the-badge&logo=echarts&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-0EA5E9?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jieba-0EA5E9?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pyecharts-E8384F?style=for-the-badge&logo=echarts&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jieba-00A65A?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0EA5E9&height=100&section=footer" width="100%"/>
